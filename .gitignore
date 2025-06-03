@@ -16,7 +16,6 @@ pids/
 
 # dotenv environment variables
 .env
-.env.*
 
 # Database (optional)
 *.sqlite
