@@ -86,7 +86,7 @@ src/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/elhalwany/shippy-express.git
+git clone https://github.com/elhalawany/shippy-express.git
 cd shippy-express
 npm install
 cp .env.example .env
@@ -170,12 +170,12 @@ Feel free to fork, submit issues, or open PRs to improve and extend the boilerpl
 
 ## 📄 License
 
-MIT © elhalwany
+MIT © elhalawany
 
 ---
 
 ## 💬 Support
 
-- Create an [Issue](https://github.com/elhalwany/shippy-express/issues) for bug reports
+- Create an [Issue](https://github.com/elhalawany/shippy-express/issues) for bug reports
 - Star ⭐ the repo if you find it useful
-- Follow [@elhalwany](https://github.com/elhalwany) for updates
+- Follow [@elhalwany](https://github.com/elhalawany) for updates

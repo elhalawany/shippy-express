@@ -10,9 +10,13 @@
     "migrate": "sequelize db:migrate",
     "seed": "sequelize db:seed:all"
   },
-  "author": "",
+  "author": "elhalwany",
   "license": "MIT",
-  "keywords": [],
+  "keywords": ["express", "boilerplate", "backend", "nodejs", "sequelize", "postgresql", "redis", "bullmq", "passport", "authentication", "authorization"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elhalawany/shippy-express.git"
+  },
   "dependencies": {
     "aws-sdk": "^2.1692.0",
     "axios": "^1.9.0",
